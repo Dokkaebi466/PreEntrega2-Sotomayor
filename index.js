@@ -26,7 +26,7 @@ class Producto {
     new Producto("Pescado", "carne", 12.0),
     new Producto("Zanahoria", "verdura", 2.0),
     new Producto("Brócoli", "verdura", 3.0),
-    new Producto("Pimiento", "verdura", 1.5)
+    new Producto("Morron", "verdura", 1.5)
   ];
   
   // Creamos el carrito de compras como un array vacío
