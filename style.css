@@ -1,0 +1,8 @@
+.card .form-control {
+    max-width: 80px; 
+    margin-right: 10px; 
+}
+
+.card .ml-2 {
+    margin-top: 10px; 
+}
